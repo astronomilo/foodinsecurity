@@ -1,3 +1,8 @@
+# Customized ignore
+
+# Dataset BigFile
+datasets/CPS2020/dec20pub.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
