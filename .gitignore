@@ -1,7 +1,8 @@
 # Customized ignore
 
 # Dataset BigFile
-datasets/CPS2020/dec20pub.csv
+datasets/CPS/*.csv
+datasets/CPS/*.dat
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
