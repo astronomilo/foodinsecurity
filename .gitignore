@@ -4,6 +4,10 @@
 datasets/CPS/*.csv
 datasets/CPS/*.dat
 
+# DS_Store
+*.DS_Store
+datasets/.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
